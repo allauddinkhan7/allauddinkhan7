@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Allauddin khan
 - 👀 I’m interested in Web development, Problem solving and learning new technilogies.
 - 🌱 I’m currently learning Next Js and Backend Development
-- 📫 Gmail: khanallauddin113@gmail.com
+- 📫 Email: khanallauddin113@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/allauddinkhan/
 
 <div>
